@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Manuel Ortiz</h1>
-<h3 align="center">Desarrollador de sofware</h3>
+<h3 align="center">Desarrollador de software</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vicente1992&label=Profile%20views&color=0e75b6&style=flat" alt="vicente1992" /> </p>
 
