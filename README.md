@@ -7,7 +7,8 @@
 
 ## 🔗 Links
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/arizamoisesco](https://www.linkedin.com/in/manuel-vicente-ortiz-6893971a2))
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuel-vicente-ortiz-6893971a2/)
+
 
 
 ## 🛠 Skills
