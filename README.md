@@ -2,7 +2,7 @@
 
 
 ## 🚀 Sobre mi
-👩‍💻 Soy desarrollador de software e Ingeniero de Sistemas de formación, cuento con 2 años de experecian en el desarrollo web
+👩‍💻 Soy desarrollador de software e Ingeniero de Sistemas de formación, cuento con 3 años de experecian en el desarrollo web
 
 
 ## 🔗 Links
