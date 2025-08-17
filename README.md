@@ -44,7 +44,7 @@ Me apasiona crear soluciones escalables, con código limpio y aplicando buenas p
 ---
 
 ## 🌎 Encuéntrame en:  
-🔗 [LinkedIn](https://www.linkedin.com/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/manuelvicenteortiz/)  
 
 ---
 
