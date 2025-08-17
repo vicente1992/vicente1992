@@ -1,22 +1,54 @@
-# Hola, Soy Manuel Ortiz! 👋
+# 👋 Hola, Soy Manuel Ortiz  
 
+💻 **Ingeniero de Sistemas y Desarrollador de Software** con más de **4 años de experiencia** en desarrollo web fullstack.  
+Me apasiona crear soluciones escalables, con código limpio y aplicando buenas prácticas de arquitectura y testing.  
 
-## 🚀 Sobre mi
-👩‍💻 Soy desarrollador de software e Ingeniero de Sistemas de formación, cuento con 3 años de experecian en el desarrollo web
+---
 
+## 🚀 Sobre mí  
+- Fullstack Developer con enfoque en **Angular, Node.js, NestJS y Java**.  
+- Aplico **Clean Code, SOLID y arquitectura hexagonal** para garantizar mantenibilidad.  
+- Enfoque en **calidad del software**, con pruebas unitarias, de integración y e2e.  
+- Experiencia en **CI/CD, Docker y DevOps** para despliegues automatizados.  
+- Contribuidor activo en proyectos **Open Source**.  
 
-## 🔗 Links
+---
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuel-vicente-ortiz-6893971a2/)
+## 🛠️ Tecnologías y Herramientas  
 
+**Frontend:**  
+- Angular, Angular Material, PrimeNG, Next.js  
 
+**Backend:**  
+- Node.js, Express, NestJS, Laravel, Java
 
-## 🛠 Skills
-HTML, CSS, Javascript, Angular, Nodejs, PHP,, MongoDB MYSQL, Nextjs, Nestjs
+**Bases de datos:**  
+- MySQL, MongoDB, Firebase  
 
+**Testing & QA:**  
+- Cypress, Jasmine, Karma, Stryker Mutator, SonarQube, Jest
 
-## Stack con los que puedo trabajar
+**DevOps & Herramientas:**  
+- Docker, GitHub Actions, GitLab CI/CD, AWS  
 
-**Frontend:** Angular
+---
 
-**Backend:**  Node, Express, Nejst, Laravel, MYSQL, MongoDB
+## 📊 Áreas de Enfoque  
+
+- 🌐 **Desarrollo Web Fullstack** (Frontend + Backend).  
+- 🧪 **Testing Automatizado** (unitario, integración, e2e, mutation testing).  
+- ⚡ **Arquitecturas modernas** (hexagonal, microservicios, micro frontends).  
+- 🚀 **CI/CD y Automatización** con Docker y pipelines.  
+- 🔒 **Seguridad & buenas prácticas** en validación de identidad, autenticación y manejo de datos.  
+
+---
+
+## 🌎 Encuéntrame en:  
+🔗 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/manuelvicenteortiz/))  
+
+---
+
+## 📊 GitHub Stats  
+
+![Manuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical)  
