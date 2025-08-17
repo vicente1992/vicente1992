@@ -12,7 +12,7 @@
 
 
 ## 🛠 Skills
-HTML, CSS, Javascript, Angular, Nodejs, PHP,, MongoDB MYSQL
+HTML, CSS, Javascript, Angular, Nodejs, PHP,, MongoDB MYSQL, Nextjs, Nestjs
 
 
 ## Stack con los que puedo trabajar
