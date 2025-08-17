@@ -48,7 +48,5 @@ Me apasiona crear soluciones escalables, con código limpio y aplicando buenas p
 
 ---
 
-## 📊 GitHub Stats  
-
-![Manuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)  
+## 📊 GitHub Stats   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicente1992&layout=compact&theme=radica)  
